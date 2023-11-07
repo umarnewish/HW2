@@ -5,7 +5,8 @@ int main() {
 
     //Problem 1
 
-/*    int a, b, c, av, p;
+/*
+ * int a, b, c, av, p;
     cin >> a >> b >> c;
 
     av = (a + b + c) / 3;
